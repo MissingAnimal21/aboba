@@ -1,6 +1,5 @@
 #This tool allows you to search for default credentials.
-#Use at your own risk
-#Github:
+#Github:https://github.com/MissingAnimal21/aboba
 import os, sys
 import io
 import bs4 as bs
